@@ -1,7 +1,7 @@
 ![logo](https://github.com/muhammadasadprogramar/muhammadasadprogramar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm muhammadasadprogramar</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
-
+<img src="https://github.com/muhammadasadprogramar/muhammadasadprogramar/blob/main/animated%20coding.gif" alt="image" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasadprogramar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasadprogramar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://muhammadasadprogramar.github.io/My-portfolio/](https://muhammadasadprogramar.github.io/My-portfolio/)
