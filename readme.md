@@ -1,8 +1,10 @@
 
+<img src="banner.png" alt="banner">
+
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="right"> <img src="animated-coding.gif" alt="asad" width="400"/> </p>
+<p align="right"> <img src="animated-coding.gif" alt="animated-coding" width="400"/> </p>
 
 - 🔭 I’m currently working on [Dental](https://dentalmouth-website.netlify.app/)
 
