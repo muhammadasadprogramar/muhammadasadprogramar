@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="right"> <img src="animated-coding.gif" alt="animated-coding" width="400"/> </p>
+<p align="center"> <img src="animated-post.gif" alt="animated-coding" /> </p>
 
 - 🔭 I’m currently working on [Dental](https://dentalmouth-website.netlify.app/)
 
